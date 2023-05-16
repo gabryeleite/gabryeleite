@@ -1,7 +1,7 @@
 ## Hi there! I'm Gabryel, just a computer science student
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabryeleite&show_icons=true&theme=dark&include_all_commits=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabryeleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryeleite&layout=compact&langs_count=true&theme=dark">
 </div>
 
@@ -11,7 +11,7 @@
   <img align="center" alt="Gab-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gab-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" height="150" width="150" src="https://cdn.discordapp.com/attachments/840021456166715453/1108138718369431613/Calcifer.gif">
+  <img align="right" height="110" width="110" src="https://cdn.discordapp.com/attachments/840021456166715453/1108138718369431613/Calcifer.gif">
 </div>
 
 ##
