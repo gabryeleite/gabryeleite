@@ -11,10 +11,11 @@
   <img align="center" alt="Gab-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gab-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="right" height="150" width="150" src="https://cdn.discordapp.com/attachments/840021456166715453/1108138718369431613/Calcifer.gif">
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github.com/gabryeleite/gabryeleite/blob/output/github-contribution-grid-snake.svg" height="170" alt="snake"/>
+  <img src="https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg" height="170" alt="snake"/>
 </div>
