@@ -31,11 +31,8 @@ jobs:
 
       # Para as atualizações.
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@master >> $GITHUB_OUTPUT
         with:
-          persist-credentials: false
-          fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
