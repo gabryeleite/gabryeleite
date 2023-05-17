@@ -27,7 +27,7 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status >> $GITHUB_OUTPUT
+      - run: git status 
 
       # Para as atualizações.
       - name: Push changes
