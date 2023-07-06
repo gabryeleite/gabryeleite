@@ -1,8 +1,8 @@
 ## Hi there! I'm Gabryel, just a computer science student
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabryeleite&show_icons=true&theme=dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryeleite&layout=compact&langs_count=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabryeleite&show_icons=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabryeleite&langs_count=true&theme=dark">
 </div>
 
 <div align="center"><br>
