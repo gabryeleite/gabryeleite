@@ -23,6 +23,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GRS_TOKEN }}
 
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=gabryeleite&langs_count=8&layout=compact&theme=dark
+          path: profile/langs.svg
+          token: ${{ secrets.GRS_TOKEN }}
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions"
