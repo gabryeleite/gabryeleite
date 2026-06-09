@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=dark
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=dark
           path: profile/stats.svg
           token: ${{ secrets.GRS_TOKEN }}
 
@@ -29,7 +29,6 @@ jobs:
           card: top-langs
           options: username=gabryeleite&langs_count=8&layout=compact&theme=dark
           path: profile/langs.svg
-          token: ${{ secrets.GRS_TOKEN }}
           
       - name: Commit cards
         run: |
