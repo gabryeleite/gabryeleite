@@ -1,4 +1,4 @@
-## Hi there! I'm Gabryel, just a computer science student
+## Hi there! I'm Gabryel, a full stack developer 👋
 
 <div>
   <img height="160em" src="./profile/stats.svg" />
