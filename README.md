@@ -2,7 +2,7 @@
 
 <div>
   <img height="160em" src="./profile/stats.svg" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabryeleite&langs_count=true&layout=compact&theme=dark">
+  <img height="160em" src="./profile/langs.svg" />
 </div>
 
 <p align="center">
